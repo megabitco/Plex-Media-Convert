@@ -8,5 +8,5 @@ tvshow_path=os.path.join(convert_path,"TV Shows")
 movie_path=os.path.join(convert_path, "Movies")
 
 # TV Conversion
-for SHOWS in os.listdir(tvshow_path):
-  print(SHOWS)
+for SHOW in os.listdir(tvshow_path):
+  print(SHOW)
