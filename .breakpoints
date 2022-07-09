@@ -2,7 +2,13 @@
   "files": {
     "main.py": [
       {
-        "id": "c423b3da-58ce-4b81-ac12-c369f4f64fd5",
+        "id": "07baa927-6190-4e9a-8815-46430fcbcf12",
+        "line": 10,
+        "version": 328,
+        "index": 232
+      },
+      {
+        "id": "ec2cb8e1-773f-4fb1-92f3-233f1c5f9477",
         "line": 11,
         "version": 328,
         "index": 248
